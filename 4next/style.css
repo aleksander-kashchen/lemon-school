@@ -1,0 +1,32 @@
+ .header, .footer 
+ { 
+ background: #736356;
+ height: 150px;
+  }
+   .layout 
+   { 
+   overflow:hidden;
+   }
+   .col1 
+   { 
+     background: #7dda8a; 
+     float: left; 
+     width:150px; 
+     height:855px;
+     
+   }
+   .col2 
+   { 
+     background: #FFCC66; 
+     margin: 0 0px 0 0px;
+     display-block; 
+     width: 100%;
+     height:855px;  
+   }
+   .col3 
+   { 
+     background: #d97d7e; 
+     width:150px; 
+     float: right; 
+     height:855px;
+   }
